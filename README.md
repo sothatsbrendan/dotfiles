@@ -4,4 +4,5 @@ Requires:
 - conky
 - rofi
 - urxvt
+
 for basic functionality
